@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map Width="80" Height="25">
+
+  <!-- Deathlands -->
+  <cell X="75" Y="17">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="76" Y="17">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="77" Y="17">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="73" Y="18">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="75" Y="18">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="76" Y="18">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="77" Y="18">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="73" Y="19">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="74" Y="19">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="75" Y="19">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="76" Y="19">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="77" Y="19">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="72" Y="20">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="73" Y="20">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="74" Y="20">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="75" Y="20">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="76" Y="20">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="77" Y="20">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="72" Y="21">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="73" Y="21">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="74" Y="21">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="75" Y="21">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="76" Y="21">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="77" Y="21">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="73" Y="22">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="74" Y="22">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="75" Y="22">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+  <cell X="76" Y="22">
+    <object Name="TerrainDeathlands">
+    </object>
+  </cell>
+
+</Map>
