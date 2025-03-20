@@ -1,10 +1,10 @@
 {
 	"id": "LaurusDeathlands",
 	"loadorder": 1,
-	"title": "{{dark fiery|Laurus Deathlands}",
+	"title": "{{dark fiery|Laurus Deathlands}}",
 	"description": "Attempts to re-add the Deathlands in a canonical way.",
 	"tags": "content,items",
 	"version": "0.0.4",
-	"author": "{{glotrot|LunarLaurus}}",
+	"author": "{{rainbow|LunarLaurus}}",
 	"previewImage": "preview.png"
 }
